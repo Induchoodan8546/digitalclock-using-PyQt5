@@ -1,1 +1,1 @@
-# stopwatch-using-PyQt5
+# digitalclock-using-PyQt5
